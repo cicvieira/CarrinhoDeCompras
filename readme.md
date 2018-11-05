@@ -5,6 +5,31 @@ Teste - Criação de uma loja simples:: Version Laravel 5.3.29 - Cicero Vieira c
 - Xampp xampp-linux-x64-7.2.8-0
 - Materialize v0.97.8 (http://materializecss.com)
 
+#####Arquivos Banco de Dados 
+
+db/carrinho_compras.mwb - MySQL Workbench
+db/carrinho_compras.sql
+
+#####Desenvolvimento 'url: 127.0.0.1'
+
+######Admin db/user.csv
+Admin: admin@admin.com
+Senha: 123456
+type: admin
+######User
+Admin: cicvieira@yahoo.com.br
+Senha: 123456
+type:default
+
+####url
+http://localhost/carrinhoDeCompras/public/
+http://localhost/carrinhoDeCompras/public/login
+
+add produtos:
+http://localhost/carrinhoDeCompras/public/admin/produtos
+add cupons
+http://localhost/carrinhoDeCompras/public/admin/cupons
+
 
 
 ## Official Documentation

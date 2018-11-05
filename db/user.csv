@@ -1,0 +1,3 @@
+id,name,email,password,remember_token,created_at,updated_at,type
+1,Admin,admin@admin.com,$2y$10$UtfVOFFcnVPe6vCaBs/gmOZIrpu3ZyDcdubzt.qCenEGk/3VS0whO,tO9oAjfmme5QKnIhvX8vQ72QaL4Kf5ypAAtxH7j8rqpJE0dv3vJ3CPK4AsuG,"2018-11-04 05:26:50","2018-11-04 23:58:01",admin
+2,"Cicero Vieira",cicvieira@yahoo.com.br,$2y$10$Tfr9G7CiuSu08.LSFAdcX.X46wn28AXlDGgFmHp5IZ6SmixXEZFFW,mFm5swGS2DpTXTBR73Vr0ANfopVVYtaqqkP2LIdFvSY75R4qJFPSZ1O0tdIO,"2018-11-04 15:01:16","2018-11-04 15:04:06",default
