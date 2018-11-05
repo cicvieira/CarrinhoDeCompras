@@ -5,6 +5,23 @@ Teste - Criação de uma loja simples:: Version Laravel 5.3.29 - Cicero Vieira c
 - Xampp xampp-linux-x64-7.2.8-0
 - Materialize v0.97.8 (http://materializecss.com)
 
+## Atenção
+Configurar o arquivo .env 
+
+DB_CONNECTION=mysql<br>
+DB_HOST=127.0.0.1<br> 
+DB_PORT=3306<br>
+DB_DATABASE=carrinho_compras<br>
+DB_USERNAME=root<br>
+DB_PASSWORD=root<br>
+<br>
+Dar permissão 777 na pasta 'storage'<br>
+linux:# sudo chmod -R 777 storade<br>
+<br>
+Certificar a pasta 'vendor' 
+
+
+
 ##### Arquivos Banco de Dados 
 
 db/carrinho_compras.mwb - MySQL Workbench
